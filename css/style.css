@@ -7,9 +7,14 @@ h1 {
   color: yellow;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'PacFont';
   src: url('./assets/fonts/PAC-FONT.TTF') format('truetype');
+}*/
+
+@font-face {
+    font-family: 'PacFont';
+    src: url(./assets/fonts/pac-font.ttf);
 }
 
 #states {

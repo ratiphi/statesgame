@@ -8,14 +8,14 @@ h1 {
   float: left;
   margin-top:80px;
   margin-left: 39%;
-  font-family: 'pacfont';
+  font-family: 'PacFont';
   font-size: 40px;
   color: #00ffde;
 }
 
 @font-face {
-	font-family: 'pacfont';
-	src: url('../assets/fonts/pac-font.ttf');
+	font-family: 'PacFont';
+	src: url(./assets/fonts/pac-font.ttf);
 }
 
 p {
