@@ -15,7 +15,7 @@ h1 {
 
 @font-face {
 	font-family: 'PacFont';
-	src: url('../assets/fonts/pac-font.ttf');
+	src: url('https://s3-us-west-2.amazonaws.com/statesgame/pac-font.TTF');
 }
 
 p {
